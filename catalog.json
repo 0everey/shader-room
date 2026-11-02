@@ -1,0 +1,14 @@
+{
+  "schema": "resource-room.catalog.v1",
+  "repository": "0everey/shader-room",
+  "category": {
+    "id": "shaders",
+    "name": "Shader／图形技术验证"
+  },
+  "futureTarget": {
+    "comparison": ">",
+    "threshold": 2,
+    "minimumCount": 3
+  },
+  "items": []
+}
